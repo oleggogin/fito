@@ -1,0 +1,25 @@
+.header {
+	background-color: rgb(50, 168, 40);
+	height: 250px;
+	font-size: 1.2em;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-left: 500px;
+	padding-right: 300px;
+}
+h1 {
+	color: rgb(210, 245, 12);
+}
+.section1 {
+
+	background-color: rgb(168, 40, 57);
+	height: 250px;
+	font-size: 1.2em;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding-left: 500px;
+	padding-right: 300px;
+}
+.color-text-h1 {
+	color: rgb(210, 245, 12); 
+}
